@@ -1,0 +1,44 @@
+.cart-total{
+  margin-right: 22px;
+}
+.cart-amount{
+  color:orange;
+}
+.tax-total{
+  margin-right: 10px;
+}
+.tax-amount{
+  color:orange;
+  margin-right: 500px;
+}
+.tax-details{
+    display: block;
+    width: 100%;
+}
+.select-address{
+  color: #ffffff;
+  background: orange;
+  border: orange;
+  height:30px;
+  width: 180px;
+  float: right;
+  text-align: start;
+  font-weight: bold;
+}
+.arr-sym{
+    float: right;
+  }
+.arr {
+  border: solid white;
+  border-width: 0 3px 3px 0;
+  display: inline-block;
+  padding: 3px;
+}
+
+.right {
+  transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+}
+.space{
+    height: 20px;
+  }

@@ -1,0 +1,46 @@
+.sweet-name{
+  text-align: left;
+  font-weight:bold;
+  font-size: 16px;
+ margin-top: 10px;
+}
+.product-header{
+  text-align: left;
+  font-size: large;
+  margin: 10px auto ;
+}
+.product-qty{
+  text-align: left;
+}
+.each-card{
+  margin: auto;
+  padding: 5px 10px;
+}
+.qty{
+  width:300px;
+  padding: 5px 50px;
+  background-color: white;
+}
+.plusminus{
+  color: white;
+  border: orange;
+  background-color: orange;
+  width: 70px;
+}
+.slick-dots li button:before {
+    color: orange;
+    font-size: 15px;
+    margin: 5px auto;
+}
+.slick-dots li.slick-active button:before {
+    color:orange !important;
+    font-size: 15px;
+    margin: 5px auto;
+  }
+ .slick-prev {
+    left: 25px;
+    z-index: 1;
+}
+.slick-next {
+  right: 25px;
+}
